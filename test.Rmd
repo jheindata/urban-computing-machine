@@ -1,6 +1,6 @@
 ---
 title: "test"
-author: "Jhein Siclon"
+author: "Jhein"
 date: '2022-04-01'
 output: html_document
 ---
