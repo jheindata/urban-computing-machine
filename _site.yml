@@ -1,14 +1,16 @@
-name: "my-website"
+name: "my-website-for-data-science"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Data Scientist"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-    - text: "P vs T"
-      href: press_temp.html
+    - text: "Topics"
+      menu:
+      - text: "P vs T"
+        href: press_temp.html
 output:
   html_document:
-    theme: cosmo
+    theme: sandstone

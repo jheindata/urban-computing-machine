@@ -2,4 +2,9 @@
 title: "About Me"
 ---
     
-Hello, this is me!
+Hello! Thank you for stumbling into my website.
+
+I am Jhein Siclon. I have degrees in Physics and Chemical Engineering.
+I am currently pursuing an MS in Data Science at University of Texas at Austin.
+This masters program is a collaboration between two departments at UT Austin:
+Computer Science and Statistics and Data Sciences.

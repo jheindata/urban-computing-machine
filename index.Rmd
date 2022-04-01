@@ -1,5 +1,26 @@
 ---
-title: "My Website"
+title: "Tools for Data Science"
 ---
     
-Hello, Website! Welcome to the world.
+Hello! If you stumbled accidentally into my website, welcome. If you are here
+because of your own accord, welcome.
+
+In here, you will find some tools in data science that may be useful to you. 
+I decided to create a repository of some of the tools I've learned in data science.
+In the Fall of 2021, I got accepted at UT Austin's Data Science program. In early 
+March 2022, I decided to write this website to document the things I've learned so 
+far. 
+
+I hope you learn something from your visit. Enjoy!
+
+
+### How do you navigate this site?
+
+Please use the drop-down menu by clicking the Topics section above.
+
+
+### What tools I've used to publish this site?
+
+I use R Markdown and GitHub pages to create this site. I'm still learning the tools; 
+although, I have used R and R markdown for a few years now, I have never used GitHub
+in publishing my notes.
